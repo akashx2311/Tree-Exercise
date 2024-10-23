@@ -11,6 +11,7 @@ public:
     right = nullptr;
   }
 };
+//Binary Tree
 
 int height(Node *root) {
   if (root == nullptr)
